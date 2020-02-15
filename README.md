@@ -8,7 +8,6 @@
 ##### Tests were written using pycharm IDE with following dependencies and plugins: python3,robot framework,intellibot plugin,selenium webdriver (Chrome Browser)
 
 End to End happy path scenario of a customer flow through the store.
-Ideally I should not have hardcoded registered username and password.
 If given more time would have covered a lot more scenarios e.g:
 
 ```
